@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.paul-themes.com	TRUE	/	FALSE	1999999999	__cfduid	df47d18e4ef348889aa6b3645e9fcaa161600767514
-paul-themes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
